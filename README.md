@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: no
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I look like an Indian
+- ⚡ Fun fact: I look like an Indian but I'm not
 
 <!---
 maknaeq/maknaeq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
