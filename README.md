@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maknaeq
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Js Frameworks, Php, Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web technologies such as NextJs and Cloud computing
 - 📫 How to reach me: You don't
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I look like an Indian but I'm not
