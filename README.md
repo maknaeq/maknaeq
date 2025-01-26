@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @maknaeq
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web technologies such as NextJs and Cloud computing
+- 🧑‍💻 I’m a front-end developer based in France
+- 🌱 I’m currently working with web technologies such as NextJs and AWS
 - 📫 How to reach me: You don't
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I look like an Indian but I'm not
 
 <!---
